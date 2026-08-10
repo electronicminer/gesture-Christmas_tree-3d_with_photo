@@ -2,7 +2,10 @@
 # 🎄 Grand Luxury Tree
 
 [![Contributors](https://img.shields.io/github/contributors/electronicminer/gesture-Christmas_tree-3d_with_photo?color=dark-green)](https://github.com/electronicminer/gesture-Christmas_tree-3d_with_photo/graphs/contributors)
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=electronicminer.gesture-christmas-tree" alt="Visitor Badge" />
+  <img src="https://img.shields.io/github/stars/electronicminer/gesture-Christmas_tree-3d_with_photo?style=social" alt="GitHub stars" />
+</div>
 哈喽！这是一个为了庆祝圣诞节写的小项目。✨
 
 原本只是想画一棵普通的 3D 圣诞树，但觉得不够酷，于是加上了 **手势识别** 和 **粒子特效**。现在你可以通过摄像头“隔空”控制这棵树，还能把自己喜欢的照片挂上去。
